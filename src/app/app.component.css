@@ -1,0 +1,15 @@
+#sidebar{
+    height: 100vh;
+    padding-top: 80px;
+    position: fixed;
+    background-color: rgb(29, 29, 29);
+
+}
+#dashboard{
+    margin-top: 60px;
+
+}
+#navbar{
+background-color: #313131!important;
+box-shadow: 0 3px 6px rgba(0, 0, 0, 2), 0 3px 6px rgba(0, 0, 0, 3);
+}
