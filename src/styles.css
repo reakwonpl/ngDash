@@ -26,3 +26,25 @@ a:hover{
 .section-container{
     padding: 30px;
 }
+
+.card-theme{
+    background-color: #353535;
+    color:rgb(129, 238, 241);
+    border: none;
+    border-radius: 2px;    
+}
+.card-header-theme{
+    color:rgb(129, 238, 241);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 12px;    
+}
+
+.card-body-theme{
+    background-color: rgb(129, 238, 241);
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+}
